@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+   
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 44px;
+}
+    
+#container{
+    border: solid 2px black;
+    width: 570px;
+    height: 350px;
+    margin: 0 auto;
+}
